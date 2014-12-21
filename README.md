@@ -1,4 +1,5 @@
 Getting-and-Cleaning-Data-Project
 =================================
 
-A project for the Coursera course "getting and cleaning data"
+This script loads, cleans and merges the UCI HAR Datasetf rom a folder named "UCI HAR Dataset", avaiable online at:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
